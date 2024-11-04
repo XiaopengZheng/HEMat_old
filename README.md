@@ -45,7 +45,7 @@ Here HElib is installed in `/home/usr/helib_install`.
 
 1. Clone the code
 ```
-git clone http://github.com/XiaopengZheng/HEMat_old.git
+git clone https://github.com/XiaopengZheng/HEMat_old.git
 ```
 
 2. Build the code and run (HElib has been installed in `/home/usr/helib_install`)
