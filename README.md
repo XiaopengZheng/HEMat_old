@@ -39,7 +39,7 @@ Here HElib is installed in `/home/usr/helib_install`.
 
 
 
-## Step 3. Download the code from `HEMat_old` and build
+## Step 2. Download the code from `HEMat_old` and build
 
 ### Instructions
 
